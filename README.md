@@ -30,9 +30,8 @@ Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the im
 
 Here are some of the projects I've been working on:
 
-1. [Project 1](link-to-project)
-2. [Project 2](link-to-project)
-3. [Project 3](link-to-project)
+1. [Cinema HQ](https://www.cinemahq.app/)
+2. [Imagine - AI Image Generator](https://imagine.ddns.me/)
 
 ---
 
@@ -40,9 +39,9 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out! Let's connect and collaborate.
 
-- Email: your@email.com
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+- Email: support@i4studio.co.uk
+- Twitter: [@Inside_4ndroid](https://twitter.com/Inside_4ndroid)
+- LinkedIn: [robert-ward-8295782b6](https://www.linkedin.com/in/robert-ward-8295782b6)
 
 ---
 
