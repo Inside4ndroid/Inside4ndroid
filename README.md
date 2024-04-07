@@ -12,7 +12,7 @@
 Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the impossible possible. Currently Owner of Inside4ndroid Studios Ltd.
 
 - 💼 Currently working on: Cinema HQ
-- 🌱 Skills: HTML, CSS/SCSS, Javascript, Java, Git, React, Unity C#, Python, MySQL, PHP, Firebase, c++
+- 🌱 Skills: HTML, CSS/SCSS, Javascript, Java, Git, React, Unity C#, Python, MySQL, PHP, Firebase, C++
 - 📫 How to reach me: support@i4stduio.co.uk
 
 ---
