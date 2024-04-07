@@ -19,10 +19,10 @@ Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the im
 
 ## Technologies & Tools
 
-![Android Studio](https://img.shields.io/badge/Tech-Tool-blue)
-![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-orange)
-![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-green)
-![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-yellow)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-IDE-brightgreen)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blueviolet)
+![Electron.js](https://img.shields.io/badge/Electron.js-Framework-blue)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-orange)
 
 ---
 
