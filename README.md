@@ -1,10 +1,10 @@
 # Welcome to [Your Name]'s GitHub Profile! 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-green)](https://yourportfolio.com)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Inside4ndroid.Inside4ndroid)
+[![GitHub](https://img.shields.io/github/followers/Inside4ndroid?label=Follow&style=social)](https://github.com/Inside4ndroid)
+[![Twitter](https://img.shields.io/twitter/follow/Inside_4ndroid?style=social)](https://twitter.com/Inside_4ndroid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/robert-ward-8295782b6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-green)](https://portfolio.ddns.me/)
 
 ---
 
