@@ -47,7 +47,7 @@ Feel free to reach out! Let's connect and collaborate.
 
 ## Hire Me!
 
-👀 Currently [your employment status - For Hire or Hiring or your current position]. If you have an interesting opportunity, I'd love to hear about it!
+👀 Currently FOR HIRE. If you have an interesting opportunity, I'd love to hear about it!
 
 ---
 
