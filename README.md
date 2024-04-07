@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Inside4ndroid's GitHub Profile! 👋
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Inside4ndroid.Inside4ndroid)
 [![GitHub](https://img.shields.io/github/followers/Inside4ndroid?label=Follow&style=social)](https://github.com/Inside4ndroid)
@@ -10,11 +10,11 @@
 
 ## About Me
 
-Hello! I'm [Your Name], a passionate [Your Profession or Interest]. I love to [mention your interests or specialties]. Currently [your employment status - For Hire or Hiring or your current position].
+Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the impossible possible. Currently Owner of Inside4ndroid Studios Ltd.
 
-- 💼 Currently working on: [Project or Task]
-- 🌱 Learning: [Technology or Skill]
-- 📫 How to reach me: [Your Email Address]
+- 💼 Currently working on: Cinema HQ
+- 🌱 Skills: HTML, CSS/SCSS, Javascript, Java, Git, React, Unity C#, Python, MySQL, PHP, Firebase, c++
+- 📫 How to reach me: support@i4stduio.co.uk
 
 ---
 
