@@ -1,6 +1,5 @@
 # Welcome to Inside4ndroid's GitHub Profile! 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Inside4ndroid.Inside4ndroid)
 [![GitHub](https://img.shields.io/github/followers/Inside4ndroid?label=Follow&style=social)](https://github.com/Inside4ndroid)
 [![Twitter](https://img.shields.io/twitter/follow/Inside_4ndroid?style=social)](https://twitter.com/Inside_4ndroid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/robert-ward-8295782b6)
@@ -20,7 +19,7 @@ Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the im
 
 ## Technologies & Tools
 
-![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-blue)
+![Android Studio](https://img.shields.io/badge/Tech-Tool-blue)
 ![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-orange)
 ![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-green)
 ![Your Favorite Tech](https://img.shields.io/badge/Tech-Tool-yellow)
