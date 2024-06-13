@@ -31,7 +31,6 @@ Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the im
 Here are some of the projects I've been working on:
 
 1. [Cinema HQ](https://www.cinemahq.app/)
-2. [Imagine - AI Image Generator](https://imagine.ddns.me/)
 
 ---
 
