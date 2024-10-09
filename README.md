@@ -1,7 +1,6 @@
 # Welcome to Inside4ndroid's GitHub Profile! 👋
 
 [![GitHub](https://img.shields.io/github/followers/Inside4ndroid?label=Follow&style=social)](https://github.com/Inside4ndroid)
-[![Discord](https://img.shields.io/discord/1254493205466972231?label=Discord&color=purple)](https://discord.gg/ZzhJXWYq)
 [![Twitter](https://img.shields.io/twitter/follow/Inside_4ndroid?style=social)](https://twitter.com/Inside_4ndroid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/robert-ward-8295782b6)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-green)](https://portfolio.ddns.me/)
