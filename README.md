@@ -15,7 +15,7 @@ Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the im
 
 - 💼 Currently working on: Cinema HQ
 - 🌱 Skills: HTML, CSS/SCSS, Javascript, Java, Git, React, Unity C#, Python, MySQL, PHP, Firebase, C++
-- 📫 How to reach me: support@i4stduio.co.uk
+- 📫 How to reach me: support@i4studio.co.uk
 
 ---
 
