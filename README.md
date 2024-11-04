@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/robert-ward-8295782b6)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-green)](https://portfolio.ddns.me/)
 ![Sponsors](https://img.shields.io/github/sponsors/Inside4ndroid)
+![Profile Views](https://komarev.com/ghpvc/?username=Inside4ndroid)
 
 ---
 
