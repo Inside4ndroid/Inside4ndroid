@@ -45,10 +45,11 @@ Thank you for considering supporting my work!
 Here are some of the projects I've been working on:
 
 1. [Cinema HQ](https://www.cinemahq.app/)
-2. [AIO-StreamSource](https://github.com/Inside4ndroid/AIO-StreamSource)
-3. [vidkey-js](https://github.com/Inside4ndroid/vidkey-js)
-4. [vidsrc-api-js](https://github.com/Inside4ndroid/vidsrc-api-js)
-5. [eporner-api-js](https://github.com/Inside4ndroid/eporner-api-js)
+2. [Vidsrc API](https://github.com/Inside4ndroid/vidsrc-api-js)
+3. [Eporner API](https://github.com/Inside4ndroid/eporner-api-js)
+4. [AA Torque EX](https://github.com/Inside4ndroid/aa-torque-ex)
+5. [DeskEngine](https://github.com/Inside4ndroid/DeskEngine)
+6. [Kisskh API](https://github.com/Inside4ndroid/Unofficial-Kisskh-API)
 
 ---
 
