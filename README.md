@@ -86,12 +86,12 @@ Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the im
 
 # 💰 Sponsorship / Donations
 
-Your sponsorship is vital in helping me achieve this mission. With your support, I can:
+Your sponsorship is vital in helping me achieve my goals. With your support, I can:
 
-Dedicate more time to developing and improving my projects
-Cover costs for essential tools, services and premium hosting to run public projects
-Provide detailed documentation and support for users
-Every contribution, no matter the size, makes a significant impact.
+- Dedicate more time to developing and improving my projects.
+- Cover costs for essential tools, services and premium hosting to run public projects.
+- Provide detailed documentation and support for users.
+- Every contribution, no matter the size, makes a significant impact.
 
 [Sponsor Me!](https://github.com/sponsors/Inside4ndroid)
 
