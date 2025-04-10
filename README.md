@@ -102,7 +102,7 @@ Thank you for considering supporting my work!
 Here are some of the projects I've been working on:
 
 1. 💻 [Cinema HQ](https://www.cinemahq.app/)
-2. 💻 [Vidsrc API](https://github.com/Inside4ndroid/vidsrc-api-js)
+2. 💻 [TMDB Embed API](https://github.com/Inside4ndroid/TMDB-Embed-API)
 3. 💻 [Eporner API](https://github.com/Inside4ndroid/eporner-api-js)
 4. 💻 [AA Torque EX](https://github.com/Inside4ndroid/aa-torque-ex)
 5. 💻 [DeskEngine](https://github.com/Inside4ndroid/DeskEngine)
