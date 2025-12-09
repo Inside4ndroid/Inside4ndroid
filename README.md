@@ -11,12 +11,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Inside4ndroid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Inside4ndroid&theme=dark&hide_border=false)
-
-![](https://github-profile-trophy.vercel.app/?username=Inside4ndroid&theme=nord&no-frame=false&no-bg=true&column=8&margin-w=15&margin-h=15&title=-PullRequest,-Reviews)
-<br><br>
 # 💫 About Me:
 
 Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the impossible possible. Currently Owner of Inside4ndroid Studios Ltd.
