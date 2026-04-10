@@ -103,6 +103,7 @@ Here are some of the projects I've been working on:
 4. 💻 [AA Torque EX](https://github.com/Inside4ndroid/aa-torque-ex)
 5. 💻 [DeskEngine](https://github.com/Inside4ndroid/DeskEngine)
 6. 💻 [XMEDIA 18+ App](https://xmedia.ddns.me/)
+7. 💻 [XStat - hardware monitoring](https://xstat.ddns.net)
 <br><br>
 # 🌐 Get in Touch
 
