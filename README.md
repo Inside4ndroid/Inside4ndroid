@@ -89,8 +89,6 @@ Your sponsorship is vital in helping me achieve my goals. With your support, I c
 
 [Sponsor Me!](https://github.com/sponsors/Inside4ndroid)
 
-[Buy Me A Coffee](https://buymeacoffee.com/inside4ndroid)
-
 Thank you for considering supporting my work!
 <br><br>
 # 💻 My Projects
