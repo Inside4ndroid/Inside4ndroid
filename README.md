@@ -89,6 +89,13 @@ Your sponsorship is vital in helping me achieve my goals. With your support, I c
 
 [Sponsor Me!](https://github.com/sponsors/Inside4ndroid)
 
+Crypto Donations are also welcome 
+
+🪙 BTC : 3GWZ3Ee4nweEENTNYmk1USjZLXYYF6p8Gj
+🪙 USDT : TWCJD9971QCZ4vKcLTP11rus5mvMa97jLT
+🪙 ETH : 0x2E63701108D3dB577fB8b661AAF4334addf608D8
+🪙 SOL : F5oQ2ZpjWyqnXoeWUQxwMdgkPou1nrgcytcuWYo6aXJx
+
 Thank you for considering supporting my work!
 <br><br>
 # 💻 My Projects
