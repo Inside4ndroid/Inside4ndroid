@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the impossible possible. Currently Owner of Inside4ndroid Studios Ltd.
+Hello! I'm Inside4ndroid, a passionate Software Developer. I love to make the impossible possible.
 
 - 📫 How to reach me: support@i4studio.co.uk
 - 🌱 Skillsets :
